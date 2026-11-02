@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated Outputs & Processed Intermediate Cache
+output/
+data/images/processed/
+data/audio/processed/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Heavy deep learning checkpoints (if any)
+*.pt
+*.pth
+*.keras
+*.h5
+
+# Environment/secrets
+.env

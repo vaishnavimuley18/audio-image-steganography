@@ -1,0 +1,4 @@
+payload_type,DCT,DWT,LSB
+AUDIO,0,1,30
+IMAGE,0,3,30
+TEXT,20,16,30
